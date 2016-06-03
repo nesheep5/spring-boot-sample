@@ -18,7 +18,7 @@ eclipse {
 }
 
 jar {
-  baseName = "spring-boot-hello-world"
+  baseName = "spring-boot-sample"
   version =  "0.0.1-SNAPSHOT"
 }
 
